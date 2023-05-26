@@ -1,0 +1,39 @@
+# discord-twitter-bot-reposter
+
+A simple bot that resposts posts from Twitter into your server
+
+## Usage
+
+```
+npm start
+```
+
+## Environment Variable
+
+You need to create an environment variable with your Bot's secret Token called
+```
+token
+```
+
+## Links and utilities
+
+Discord Developers Portal:
+https://discord.com/developers
+
+Repl.it:
+https://repl.it
+
+Shell Code:
+npm init -y && npm i --save-dev node@16 && npm config set prefix=$(pwd)/node_modules/node && export PATH=$(pwd)/node_modules/node/bin:$PATH
+
+Package.json
+"start": "node ."
+
+Uptime Robot:
+https://uptimerobot.com/
+
+## License
+
+MIT
+
+---
